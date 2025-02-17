@@ -1,0 +1,12 @@
+{
+  "screen": {
+    "width": 30,
+    "height": 20
+  },
+  "display": {
+    "tile_size": 30
+  },
+  "game": {
+    "fps": 60
+  }
+}
